@@ -20,6 +20,7 @@ enhancing the learning experience. Our goal is to provide a deep understanding o
 ## Technologies Used
 
 - Unity version: 2022.3.10f1
+- Artificial Intelligence (IA)
 
 ## Installation
 
